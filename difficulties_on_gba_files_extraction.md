@@ -1,0 +1,1 @@
+The ROM Hacks doesn't provide a folder system as it is a binary source. There is some ways to transform it but the data might not be easily achievable. This tool can be useful: https://www.romhacking.net/utilities/431/ 
